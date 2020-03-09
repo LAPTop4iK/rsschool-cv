@@ -11,3 +11,19 @@ My goal is to improve my mobile development skills. My desire at the moment is t
 ## SKILLS
 The basics skills of Git, HTML/CSS, Swift, Object-oriented programming, Markdown.
 
+## EXPERIENCE
+
+Mobile messenger app in the Swift programming language using Firebase. Development Of the website of the Museum of the Minsk radio engineering College as a diploma project .
+
+
+## EDUCARION
+
+### 2015-2019 | BRANCH BSUIR OF MINSK RADIO ENGINEERING COLLEGE
++ *Specialty:* Information technology software
+
+### 2019-2023 | IIT BSUIR
++ *Specialty:* Information technology software
+
+## ENGLISH
+
+My English skill is the confident use of a translator to send a message to an American in snapchat. They say it's A2. But I am learning and improving my English
